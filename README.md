@@ -108,7 +108,7 @@ python3 make_figures.py        # regenerates Figure 1 and Table 1 into ../figure
 
 statistical_tests.py reproduces every test statistic cited in the abstract: per-case Welch t-tests on individual transactions (Table 1); the pooled test across the two championships (each case normalized to its own pre-event mean; t = -4.12, one-sided p = .0001); two robustness checks for that pooled result (day-level aggregation, p = .004, and a within-case permutation test, p = .02); and the Brown vs. Tatum comparison (one-sided t = -2.79, p = .004).
 
-Interpretation notes: (1) the headline tests treat transactions as independent, although same-seller, same-day listings can violate this, which is why the day-level and permutation checks are reported; (2) the pre-event windows for Tatum (one day) and Brown (three days) are short and will be widened in the full manuscript; (3) the Gilgeous-Alexander decline is directionally consistent but not statistically significant on its own (p = .42); (4) the cases were purposively selected, not randomly sampled, and the manuscript extends the analysis to a pre-specified panel with control-benchmarked abnormal returns.
+Interpretation notes: (1) the headline tests treat transactions as independent, although same-seller, same-day listings can violate this, which is why the day-level and permutation checks are reported; (2) the Gilgeous-Alexander decline is directionally consistent but not statistically significant on its own (p = .42); (3) the cases were purposively selected, not randomly sampled, and the manuscript extends the analysis to a pre-specified panel with control-benchmarked abnormal returns.
 
 ## Citation
 
