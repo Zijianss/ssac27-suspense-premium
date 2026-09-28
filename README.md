@@ -88,9 +88,7 @@ Collect, and Goldin's public sold-listing data.
 
 ## Known limitations (see paper for full discussion)
 
-- Sample size: this is a starting event-study sample (4-5 players, several
-  hundred individual transactions across 8 event-windows), not a large-N
-  systematic sample.
+- Sample size: the abstract's Results rest on four event files (4 players, 114 dated sales). The timeline and extended files cover the same cards over longer windows, so some sales appear in more than one file. This is a pilot event-study sample, not a large-N systematic sample.
 - A parallel cross-category test (2022 FIFA World Cup Final, Lionel Messi)
   did not replicate the direction of the NBA-based effect; see the paper's
   Conclusion for discussion. That dataset is not included in this initial
