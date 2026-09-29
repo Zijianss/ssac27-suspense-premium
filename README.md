@@ -1,4 +1,4 @@
-# Selling the Suspense: Terminal-Uncertainty Resolution and Price Reversal in Sports Collectible Markets
+# The Time Value of a Trophy: Terminal-Uncertainty Resolution and Price Reversal in Sports Collectible Markets
 
 Data and code accompanying the abstract submitted to the MIT Sloan Sports
 Analytics Conference (SSAC27) Research Paper Competition.
